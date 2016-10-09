@@ -1,1 +1,1 @@
-# Ruby on Rails Micro Twitter application for learning the Ruby on Rails framework.
+# Micro Twitter application for learning and implementing web development using the the Ruby on Rails framework, test driven development approach and RESTful APIs
